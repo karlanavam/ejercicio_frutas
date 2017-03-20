@@ -1,4 +1,4 @@
-#ejercicio frutas
+# EJERCICIO FRUTAS
 
 ## Primero cree un repositorio con los siguientes comandos:
 
