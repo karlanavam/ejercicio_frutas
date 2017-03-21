@@ -14,3 +14,8 @@
 ### inserté una imagen .gif
 ### creé una lista con las frutas existentes en el catálogo
 ### inserté dos insputs: uno donde van a ingresar las frutas y dos, el botón.
+
+## En javascript
+
+### Cree una función que me pudiera ayudar a agregar frutas a la lista del catálogo.
+### Y que reconociera el botón para agregar, la fruta del input de texto.
